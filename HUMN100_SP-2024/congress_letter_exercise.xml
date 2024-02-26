@@ -68,10 +68,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240216092649221",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240216092649221",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-16T14:26:49.221Z",
-	"dcterms:modified": "2024-02-16T14:26:49.221Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -82,10 +81,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240216092649221#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240216092649221#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -96,7 +95,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240216092649221#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240216092649221#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/persName"
 		}
@@ -148,10 +147,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?date_annotation_20240216093045344",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?date_annotation_20240216093045344",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-16T14:30:45.344Z",
-	"dcterms:modified": "2024-02-16T14:30:45.344Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -162,10 +160,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?date_annotation_20240216093045344#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?date_annotation_20240216093045344#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -176,7 +174,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?date_annotation_20240216093045344#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?date_annotation_20240216093045344#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/date/date"
 		}
@@ -226,10 +224,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?place_annotation_20240216093324500",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?place_annotation_20240216093324500",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-16T14:33:24.500Z",
-	"dcterms:modified": "2024-02-16T14:33:24.500Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -240,10 +237,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?place_annotation_20240216093324500#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?place_annotation_20240216093324500#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -254,7 +251,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?place_annotation_20240216093324500#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?place_annotation_20240216093324500#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/placeName"
 		}
@@ -307,10 +304,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?organization_annotation_20240216093703959",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?organization_annotation_20240216093703959",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-16T14:37:03.959Z",
-	"dcterms:modified": "2024-02-16T14:37:03.959Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -321,10 +317,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?organization_annotation_20240216093703959#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?organization_annotation_20240216093703959#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -335,7 +331,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?organization_annotation_20240216093703959#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?organization_annotation_20240216093703959#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/orgName"
 		}
@@ -387,10 +383,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?title_annotation_20240216094547041",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?title_annotation_20240216094547041",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-16T14:45:47.041Z",
-	"dcterms:modified": "2024-02-16T14:45:47.041Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -401,10 +396,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?title_annotation_20240216094547041#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?title_annotation_20240216094547041#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -415,7 +410,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/courses/main/HUMN100_SP-2024/congress_letter_exercise.xml?title_annotation_20240216094547041#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?title_annotation_20240216094547041#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/title"
 		}
@@ -423,6 +418,86 @@
 	"oa:hasBody": {
 		"@type": "bf:Title",
 		"@id": "http://www.wikidata.org/entity/Q11698",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240225192729209",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-26T00:27:29.209Z",
+	"dcterms:modified": "2024-02-26T00:27:29.209Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240225192729209#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/congress_letter_exercise.xml?person_annotation_20240225192729209#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/closer/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q13390410",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -466,7 +541,7 @@
 				as Congress shall open its doors to us in person.</p>
 			<closer><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335" cert="high" type="real">Elizabeth Cady
 						Stanton</persName> 
-				Isabella Beecher Hooker 
+				<persName key="Isabella Beecher Hooker" ref="http://www.wikidata.org/entity/Q13390410" cert="high" type="real">Isabella Beecher</persName> Hooker 
 				Elizabeth S. Bladen 
 				Olympia Brown 
 				Susan B. Anthony 
