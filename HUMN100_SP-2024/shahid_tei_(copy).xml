@@ -1248,7 +1248,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093750720#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/note[6]"
+			"rdf:value": "TEI/text/body/div/p/note[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -3293,6 +3293,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240307221830234",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:18:30.234Z",
+	"dcterms:modified": "2024-03-08T03:18:30.234Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240307221830234#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240307221830234#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/note[6]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Hierophagy - eating something other-worldly → eating that gives access to divine knowledge, places, realms → food that breaks down boundaries between realms"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -3327,7 +3406,7 @@ the “eat me” cake (Carroll 1992: 13) and “drink me” beverage (which tast
                experience. Numerous scholars view the seed as either a symbol of fertility or as a
                metaphor for sexual intercourse, or both. The analysis presented here views the
                pomegranate as participating in the cross-cultural trope of hierophagy. The basic
-               event of hierophagy 6<note type="scholarNote">Nicolae Roddy (personal communication, 2007) suggested “hierophagy”, which I have since adopted. Desroches (1973: 40 n.18) mentions the neologism, crediting F. A. Isambert (1966: 184), but the term does not occur in that publication of Isambert. See also Pfister (1948: 262), who simply defines hiero- phagy as a “sacral meal [which] represents the eating of the god or of the holy entity”. My use of the term here represents a significant development from these earlier brief allusions.</note> involves the eating of something otherworldly, which then
+               event of hierophagy<note type="annotation">Hierophagy - eating something other-worldly → eating that gives access to divine knowledge, places, realms → food that breaks down boundaries between realms</note> 6<note type="scholarNote">Nicolae Roddy (personal communication, 2007) suggested “hierophagy”, which I have since adopted. Desroches (1973: 40 n.18) mentions the neologism, crediting F. A. Isambert (1966: 184), but the term does not occur in that publication of Isambert. See also Pfister (1948: 262), who simply defines hiero- phagy as a “sacral meal [which] represents the eating of the god or of the holy entity”. My use of the term here represents a significant development from these earlier brief allusions.</note> involves the eating of something otherworldly, which then
                associates the eater with another world; in antiquity this is often the divine realm.
                A hierophagic analysis does not exclude the sexual element of the seed’s ingestion
                but rather seeks to explain why eating, and particularly tasting, would be used in
