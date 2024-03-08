@@ -6439,6 +6439,245 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240307224123811",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:41:23.811Z",
+	"dcterms:modified": "2024-03-08T03:41:23.811Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240307224123811#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240307224123811#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p[5]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://viaf.org/viaf/6000161514253070750000/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307224144465",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:41:44.465Z",
+	"dcterms:modified": "2024-03-08T03:41:44.465Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307224144465#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307224144465#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p[5]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q203445",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307224310894",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:43:10.894Z",
+	"dcterms:modified": "2024-03-08T03:43:10.894Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307224310894#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307224310894#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q41410",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -6477,7 +6716,7 @@ the “eat me” cake (Carroll 1992: 13) and “drink me” beverage (which tast
                associates the eater with another world; in antiquity this is often the divine realm.
                A hierophagic analysis does not exclude the sexual element of the seed’s ingestion
                but rather seeks to explain why eating, and particularly tasting, would be used in
-               this way so consistently. In other words, even if we accept that Hades’ actions with
+               this way so consistently. In other words, even if we accept that <persName key="Hades" ref="http://www.wikidata.org/entity/Q41410">Hades</persName>’ actions with
                the seed enable him to bind Persephone to the underworld, the question why she must
                ingest the seed in order for the magic to work is left unanswered by evaluations that
                simply take for granted the sexual metaphor of the act.</p>
@@ -6561,8 +6800,8 @@ unusual and therefore informative in the context of the familiar or ordinary (�
                are out of the ordinary.</p>
             <p>The sweet taste that the seeds have is likewise marked. Even present-day pomegranates, bred for their sweetness, are still better described as tart; in contrast, wild
                pomegranates are described as “extremely acidic”.29<note type="scholarNote">Stover &amp; Mercure (2007: 1088); the chart found in Stover &amp; Mercure (2007: 1091) outlines the range of sweetness and acidity expected in the variety of modern cultivars.</note> The food of the gods in the
-               Greek tradition is also associated with honey and sweet tastes.30<note type="scholarNote">See Hitch (Chapter 1) for the poetics of sweetness in Greek literature, and Totelin (Chapter 3) for sweet- ness in medical and scientific texts.</note> In the Homeric Hymn
-               to Hermes 559–62 this is made explicit, and Porphyry, writing much later, also
+               Greek tradition is also associated with honey and sweet tastes.30<note type="scholarNote">See Hitch (Chapter 1) for the poetics of sweetness in Greek literature, and Totelin (Chapter 3) for sweet- ness in medical and scientific texts.</note> In the <rs key="Hymn to Hermes. | Greek | (Allen)" ref="http://viaf.org/viaf/6000161514253070750000/" cert="medium">Homeric Hymn
+               to Hermes</rs> 559–62 this is made explicit, and <persName key="Porphyry" ref="http://www.wikidata.org/entity/Q203445" cert="medium" type="real">Porphyry</persName>, writing much later, also
                associates the food of the gods with honey.31<note type="scholarNote">Porphyry, On the Cave of the Nymphs (De antro nymphrum) 7; Scheinberg (1979: 5); cf. Roscher (1883: 25); Kraemer (1998: 169–71).</note> This sweet taste operates as a symbol
                by which the eater interprets his or her experience. Sweetness is representative32<note type="scholarNote">Korsmeyer (1999: 115–18).</note>
                and participates in culturally governed expectations of meaning. The fact that these
