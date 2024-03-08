@@ -4076,7 +4076,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222930987#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName"
+			"rdf:value": "TEI/text/body/div/p[3]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -4095,6 +4095,328 @@
 		"schema:softwareVersion": "3.4.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?place_annotation_20240307223010698",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:30:10.698Z",
+	"dcterms:modified": "2024-03-08T03:30:10.698Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?place_annotation_20240307223010698#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?place_annotation_20240307223010698#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q611361",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium",
+	"cwrc:hasPrecision": "cwrc:mediumCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223023449",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:30:23.449Z",
+	"dcterms:modified": "2024-03-08T03:30:23.449Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223023449#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223023449#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q41410",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223050122",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:30:50.122Z",
+	"dcterms:modified": "2024-03-08T03:30:50.122Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223050122#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223050122#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q40730",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223109250",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:31:09.250Z",
+	"dcterms:modified": "2024-03-08T03:31:09.250Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223109250#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223109250#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q40730",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
@@ -4150,11 +4472,11 @@ the “eat me” cake (Carroll 1992: 13) and “drink me” beverage (which tast
                and locations. Hierophagy is a type of eating found in literature that is
                transformative in that the participant in such an event becomes associated with
                another world in the process of the eating.</p>
-            <p>The significance of hierophagy in antiquity hinges on the porous-but-present boundary
+            <p>The significance of hierophagy in antiquity hinges on the porous but present boundary
                between worlds in the cultural expectation of the ancient Mediterranean.8<note type="scholarNote">By “cultural expectation” I mean knowledge passed down as part of the cultural heritage of ancient communities, knowledge that would have been commonly accepted among culturally literate partici- pants in the ancient world. Here, I follow Richard Horsley’s use of the term “cultural repertoire” (2007: esp. 128–9) and David Carr’s discussion of how cultural-religious traditions are communicated in antiquity (2005: esp. 3–14).</note> Although
                the most prominent boundary is between the human and divine realms, in some stories
                involving hierophagy other boundaries are breached. For instance, both Ovid and the
-               author of the Hymn treat the Chthonic and Olympian realms as distinct;9<note type="scholarNote">For a discussion of the use of these terms in cult practice, see Scullion (1994).</note> Hades rules
+               author of the Hymn treat the <placeName key="chthonic gods" ref="http://www.wikidata.org/entity/Q611361" cert="medium">Chthonic<precision match="@ref" precision="medium"/></placeName> and Olympian realms as distinct;9<note type="scholarNote">For a discussion of the use of these terms in cult practice, see Scullion (1994).</note> <persName key="Hades" ref="http://www.wikidata.org/entity/Q41410">Hades</persName> rules
                one realm while <persName key="Zeus" ref="http://www.wikidata.org/entity/Q34201" cert="high" type="fictional">Zeus</persName> rules another. Tasting food from another realm is one way in
                which such boundaries can be crossed.10<note type="scholarNote">In biblical texts, other examples of boundary crossing abound, for instance in texts which describe div- inely sent visions to prophets. Taste as a mechanism for boundary crossing is under examination here
 because this mechanism has been completely neglected to this point.</note></p>
@@ -4167,11 +4489,11 @@ because this mechanism has been completely neglected to this point.</note></p>
                here,11<note type="scholarNote">See Richardson (1974: 74–86) for a full discussion of other literary versions of the myth. The myth
 of Persephone’s capture is briefly mentioned in Hesiod, Theogony 9.14, and also appears in Pamphos, Hymn to Demeter (preserved in Pausanias 1.38.3, 8.37.9, 9.31.9); Orphic Argonautika 1191–6; Orphic hymns 18, 29, 41, 43; Euripides, Helen 1301–68; Isocrates, Panegyrikos 28–9; Callimachos, Hymn 6; Nicander, Theriaca 483–7, Alexipharmaca 129–32; Apollodorus, Library 1.5.1–3; Diodorus Siculus, Bibliotheca Historica 5.3–5; Cicero, Against Verres 2.4; Virgil Georgics 1.39; Lucan Civil Wars 6.698– 700, 739–42; Lactantius Placidus on Statius Thebaid 5.347; Claudian, On the Rape of Proserpina; Nonnos, Dionysiaca 6.1–168; Second Vatican Mythographer 94–100. Of these, Apollodorus mentions the pomegranate, stating that Pluto gave the seed to the Maid and she, “not foreseeing the conse- quences”, ate it.</note> and it is likely that the later Metamorphoses and Fasti were composed at
                least partly in response to the Hymn.12<note type="scholarNote">Hinds (1987: 51–98).</note> In the <title key="Hymn to Demeter I" ref="http://www.wikidata.org/entity/Q3798927">Homeric Hymn to Demeter</title>, we see
-               Demeter mourning her daughter’s kidnapping.13<note type="scholarNote">Persephone falls to the underworld when reaching for a fragrant narcissus flower (Hymn 5–14). The
+               <persName key="Demeter" ref="http://www.wikidata.org/entity/Q40730" cert="high" type="fictional">Demeter</persName> mourning her daughter’s kidnapping.13<note type="scholarNote">Persephone falls to the underworld when reaching for a fragrant narcissus flower (Hymn 5–14). The
 sensory implications of this event of relocation are no doubt significant, but beyond the scope of this
 chapter. For a brief discussion of tempting fragrances, see Hitch, Chapter 1.</note> Those familiar with the story will
                recall how she allows nothing to grow on earth, no crops of any kind, in her grief
-               and rage (Hymn 302–13). Each of the gods entreats Demeter to allow the earth to be
+               and rage (Hymn 302–13). Each of the gods entreats <persName key="Demeter" ref="http://www.wikidata.org/entity/Q40730">Demeter</persName> to allow the earth to be
                fertile again, but she refuses. Demeter is determined not to allow any crops to grow
                on the earth until her daughter is returned to her.</p>
             <p>Zeus, complicit in his own daughter’s abduction by his brother Hades (78–9), is held
