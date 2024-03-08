@@ -31,10 +31,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304090504500",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090504500",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:05:04.500Z",
-	"dcterms:modified": "2024-03-04T14:05:04.500Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -45,9 +44,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304090504500#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090504500#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -58,7 +58,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304090504500#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090504500#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName"
 		}
@@ -113,10 +113,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304090525845",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090525845",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:05:25.845Z",
-	"dcterms:modified": "2024-03-04T14:05:25.845Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -127,9 +126,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304090525845#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090525845#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -140,7 +140,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304090525845#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090525845#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[3]"
 		}
@@ -191,10 +191,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304090551009",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090551009",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:05:51.009Z",
-	"dcterms:modified": "2024-03-04T14:05:51.009Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -205,9 +204,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304090551009#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090551009#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -218,7 +218,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304090551009#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090551009#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[2]"
 		}
@@ -273,10 +273,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304090710277",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090710277",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:07:10.277Z",
-	"dcterms:modified": "2024-03-04T14:07:10.277Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -287,9 +286,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304090710277#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090710277#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -300,7 +300,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304090710277#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090710277#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[5]"
 		}
@@ -351,10 +351,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304090818873",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090818873",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:08:18.873Z",
-	"dcterms:modified": "2024-03-04T14:08:18.873Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -365,9 +364,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304090818873#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090818873#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -378,7 +378,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304090818873#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090818873#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[6]"
 		}
@@ -433,10 +433,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304090833526",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090833526",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:08:33.526Z",
-	"dcterms:modified": "2024-03-04T14:08:33.526Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -447,9 +446,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304090833526#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090833526#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -460,7 +460,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304090833526#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090833526#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[7]"
 		}
@@ -511,10 +511,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304090853094",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090853094",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:08:53.094Z",
-	"dcterms:modified": "2024-03-04T14:08:53.094Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -525,9 +524,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304090853094#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090853094#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -538,7 +538,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304090853094#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240304090853094#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[4]"
 		}
@@ -593,10 +593,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304090931373",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304090931373",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:09:31.373Z",
-	"dcterms:modified": "2024-03-04T14:09:31.373Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -607,9 +606,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304090931373#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304090931373#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -620,7 +620,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304090931373#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304090931373#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[2]"
 		}
@@ -672,10 +672,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304091735944",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304091735944",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:17:35.944Z",
-	"dcterms:modified": "2024-03-04T14:17:35.944Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -686,9 +685,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304091735944#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304091735944#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -699,7 +699,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304091735944#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304091735944#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[3]"
 		}
@@ -750,10 +750,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304091938344",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304091938344",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:19:38.344Z",
-	"dcterms:modified": "2024-03-04T14:19:38.344Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -764,9 +763,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304091938344#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304091938344#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -777,7 +777,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304091938344#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?rs_annotation_20240304091938344#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs"
 		}
@@ -829,10 +829,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304092657416",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304092657416",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:26:57.416Z",
-	"dcterms:modified": "2024-03-04T14:26:57.416Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -843,9 +842,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304092657416#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304092657416#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -856,7 +856,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304092657416#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304092657416#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note"
 		}
@@ -907,10 +907,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093537087",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093537087",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:35:37.087Z",
-	"dcterms:modified": "2024-03-04T14:35:37.087Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -921,9 +920,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093537087#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093537087#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -934,7 +934,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093537087#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093537087#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note[4]"
 		}
@@ -985,10 +985,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093628571",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093628571",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:36:28.571Z",
-	"dcterms:modified": "2024-03-04T14:36:28.571Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -999,9 +998,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093628571#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093628571#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1012,7 +1012,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093628571#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093628571#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note[3]"
 		}
@@ -1063,10 +1063,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093654173",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093654173",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:36:54.173Z",
-	"dcterms:modified": "2024-03-04T14:36:54.173Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1077,9 +1076,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093654173#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093654173#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1090,7 +1090,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093654173#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093654173#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note[2]"
 		}
@@ -1141,10 +1141,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093725708",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093725708",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:37:25.708Z",
-	"dcterms:modified": "2024-03-04T14:37:25.708Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1155,9 +1154,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093725708#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093725708#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1168,7 +1168,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093725708#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093725708#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note[5]"
 		}
@@ -1219,10 +1219,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093750720",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093750720",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:37:50.720Z",
-	"dcterms:modified": "2024-03-04T14:37:50.720Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1233,9 +1232,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093750720#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093750720#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1246,7 +1246,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093750720#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093750720#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/note[6]"
 		}
@@ -1297,10 +1297,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093816172",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093816172",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:38:16.172Z",
-	"dcterms:modified": "2024-03-04T14:38:16.172Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1311,9 +1310,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093816172#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093816172#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1324,7 +1324,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093816172#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093816172#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/note"
 		}
@@ -1375,10 +1375,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093841987",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093841987",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:38:41.987Z",
-	"dcterms:modified": "2024-03-04T14:38:41.987Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1389,9 +1388,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093841987#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093841987#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1402,7 +1402,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093841987#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093841987#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/note"
 		}
@@ -1453,10 +1453,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093912994",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093912994",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:39:12.994Z",
-	"dcterms:modified": "2024-03-04T14:39:12.994Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1467,9 +1466,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093912994#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093912994#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1480,7 +1480,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093912994#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304093912994#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/note[2]"
 		}
@@ -1531,86 +1531,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304093920837",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-04T14:39:20.837Z",
-	"dcterms:modified": "2024-03-04T14:39:20.837Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/sfs016",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Syed Shahid"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304093920837#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304093920837#Selector",
-			"@type": "oa:XPathSelector"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:Note",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?note_annotation_20240304094002336",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094002336",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:40:02.336Z",
-	"dcterms:modified": "2024-03-04T14:40:02.336Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1621,9 +1544,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094002336#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094002336#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1634,7 +1558,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094002336#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094002336#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/note[3]"
 		}
@@ -1685,10 +1609,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094042736",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094042736",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:40:42.736Z",
-	"dcterms:modified": "2024-03-04T14:40:42.736Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1699,9 +1622,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094042736#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094042736#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1712,7 +1636,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094042736#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094042736#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p/note"
 		}
@@ -1763,10 +1687,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094102620",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094102620",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:41:02.620Z",
-	"dcterms:modified": "2024-03-04T14:41:02.620Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1777,9 +1700,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094102620#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094102620#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1790,7 +1714,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094102620#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094102620#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p/note[2]"
 		}
@@ -1841,10 +1765,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094118690",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094118690",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:41:18.690Z",
-	"dcterms:modified": "2024-03-04T14:41:18.690Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1855,9 +1778,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094118690#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094118690#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1868,7 +1792,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094118690#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094118690#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p/note[3]"
 		}
@@ -1919,10 +1843,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094135421",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094135421",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:41:35.421Z",
-	"dcterms:modified": "2024-03-04T14:41:35.421Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -1933,9 +1856,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094135421#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094135421#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1946,7 +1870,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094135421#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094135421#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/note"
 		}
@@ -1997,10 +1921,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094211374",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094211374",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:42:11.374Z",
-	"dcterms:modified": "2024-03-04T14:42:11.374Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2011,9 +1934,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094211374#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094211374#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2024,7 +1948,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094211374#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094211374#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/note[2]"
 		}
@@ -2075,10 +1999,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094221238",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094221238",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:42:21.238Z",
-	"dcterms:modified": "2024-03-04T14:42:21.238Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2089,9 +2012,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094221238#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094221238#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2102,7 +2026,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094221238#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094221238#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/note[3]"
 		}
@@ -2153,10 +2077,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094244472",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094244472",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:42:44.472Z",
-	"dcterms:modified": "2024-03-04T14:42:44.472Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2167,9 +2090,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094244472#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094244472#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2180,7 +2104,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094244472#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094244472#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[2]/note[4]"
 		}
@@ -2231,10 +2155,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094301138",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094301138",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:43:01.138Z",
-	"dcterms:modified": "2024-03-04T14:43:01.138Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2245,9 +2168,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094301138#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094301138#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2258,7 +2182,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094301138#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094301138#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note"
 		}
@@ -2309,10 +2233,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094316654",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094316654",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:43:16.654Z",
-	"dcterms:modified": "2024-03-04T14:43:16.654Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2323,9 +2246,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094316654#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094316654#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2336,7 +2260,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094316654#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094316654#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note[2]"
 		}
@@ -2387,10 +2311,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094327437",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094327437",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:43:27.437Z",
-	"dcterms:modified": "2024-03-04T14:43:27.437Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2401,9 +2324,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094327437#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094327437#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2414,7 +2338,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094327437#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094327437#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note[3]"
 		}
@@ -2465,10 +2389,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094350201",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094350201",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:43:50.201Z",
-	"dcterms:modified": "2024-03-04T14:43:50.201Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2479,9 +2402,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094350201#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094350201#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2492,7 +2416,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094350201#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094350201#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note[4]"
 		}
@@ -2543,10 +2467,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094414002",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094414002",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:44:14.002Z",
-	"dcterms:modified": "2024-03-04T14:44:14.002Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2557,9 +2480,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094414002#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094414002#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2570,7 +2494,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094414002#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094414002#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note[5]"
 		}
@@ -2621,10 +2545,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094429419",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094429419",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:44:29.419Z",
-	"dcterms:modified": "2024-03-04T14:44:29.419Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2635,9 +2558,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094429419#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094429419#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2648,7 +2572,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094429419#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094429419#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note[6]"
 		}
@@ -2699,10 +2623,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094446671",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094446671",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:44:46.671Z",
-	"dcterms:modified": "2024-03-04T14:44:46.671Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2713,9 +2636,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094446671#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094446671#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2726,7 +2650,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094446671#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094446671#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note[7]"
 		}
@@ -2777,10 +2701,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094500019",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094500019",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:45:00.019Z",
-	"dcterms:modified": "2024-03-04T14:45:00.019Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2791,9 +2714,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094500019#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094500019#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2804,7 +2728,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094500019#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094500019#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note[8]"
 		}
@@ -2855,10 +2779,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094510520",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094510520",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:45:10.520Z",
-	"dcterms:modified": "2024-03-04T14:45:10.520Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2869,9 +2792,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094510520#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094510520#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2882,7 +2806,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094510520#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094510520#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[3]/note[9]"
 		}
@@ -2933,10 +2857,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094528102",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094528102",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:45:28.102Z",
-	"dcterms:modified": "2024-03-04T14:45:28.102Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -2947,9 +2870,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094528102#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094528102#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2960,7 +2884,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094528102#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094528102#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[4]/note"
 		}
@@ -3011,10 +2935,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094656804",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094656804",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:46:56.804Z",
-	"dcterms:modified": "2024-03-04T14:46:56.804Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -3025,9 +2948,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094656804#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094656804#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3038,7 +2962,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094656804#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094656804#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[4]/note[2]"
 		}
@@ -3089,10 +3013,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094713520",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094713520",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:47:13.520Z",
-	"dcterms:modified": "2024-03-04T14:47:13.520Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -3103,9 +3026,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094713520#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094713520#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3116,7 +3040,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094713520#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094713520#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[5]/note"
 		}
@@ -3167,10 +3091,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094731856",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094731856",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:47:31.856Z",
-	"dcterms:modified": "2024-03-04T14:47:31.856Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -3181,9 +3104,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094731856#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094731856#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3194,7 +3118,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094731856#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094731856#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[5]/note[2]"
 		}
@@ -3245,10 +3169,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094752569",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094752569",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:47:52.569Z",
-	"dcterms:modified": "2024-03-04T14:47:52.569Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -3259,9 +3182,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094752569#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094752569#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3272,7 +3196,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094752569#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094752569#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[5]/note[3]"
 		}
@@ -3323,10 +3247,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240304094809686",
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094809686",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:48:09.686Z",
-	"dcterms:modified": "2024-03-04T14:48:09.686Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sfs016",
 		"@type": [
@@ -3337,9 +3260,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240304094809686#Target",
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094809686#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3350,7 +3274,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240304094809686#Selector",
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240304094809686#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/p[5]/note[4]"
 		}
@@ -3384,11 +3308,11 @@
                “Rape of <persName key="Persephone" ref="http://www.wikidata.org/entity/Q45967" cert="high" type="fictional">Persephone</persName>”: the anonymous Homeric Hymn to <persName key="Demeter" ref="http://www.wikidata.org/entity/Q40730" cert="high" type="fictional">Demeter</persName>, as well as Ovid’s Fasti
                and Metamorphoses. The Homeric Hymn to <persName key="Demeter" ref="http://www.wikidata.org/entity/Q40730">Demeter</persName> is an anonymous text probably composed
                between 650 and 550 bce. Ovid lived and wrote Metamorphoses and Fasti (among other
-               texts) in and around2<note type="scholarNote">Ovid spent some time in exile and wrote a portion of Fasti outside of Rome proper. See Hill (1992: 1–2).</note> Rome in the first century ce under the reign of Augustus.3<note type="scholarNote">For further discussion of the Homeric Hymn to Demeter, see Richardson (1974: 5–12) and Foley (1994: 28–31, 79–83); for further discussion of Ovid’s historical, political and social context, see Hill
+               texts) in and around 2<note type="scholarNote">Ovid spent some time in exile and wrote a portion of Fasti outside of Rome proper. See Hill (1992: 1–2).</note> Rome in the first century ce under the reign of Augustus.3<note type="scholarNote">For further discussion of the Homeric Hymn to Demeter, see Richardson (1974: 5–12) and Foley (1994: 28–31, 79–83); for further discussion of Ovid’s historical, political and social context, see Hill
 (1992: 1–4).</note>
                These three texts all narrate the myth of the abduction of <persName key="Persephone" ref="http://www.wikidata.org/entity/Q45967" cert="high" type="fictional">Persephone</persName>, also called
                Proserpina, by the god of the underworld; while in <persName key="Hades" ref="http://www.wikidata.org/entity/Q41410">Hades</persName>, the goddess ingests some
-               pomegranate, rendering her sojourn in the underworld semi- permanent. Tasting the
+               pomegranate, rendering her sojourn in the underworld semi-permanent. Tasting the
                pomegranate results in a change of identity for <persName key="Persephone" ref="http://www.wikidata.org/entity/Q45967" cert="high" type="fictional">Persephone</persName>; whereas before she
                belonged wholly to the cohort of Olympian deities, afterwards she is required to
                spend a portion of her year as <persName key="Hades" ref="http://www.wikidata.org/entity/Q41410">Hades</persName>’ <rs key="consort" ref="http://www.wikidata.org/entity/Q5784340" cert="high">consort</rs>. The ramifications of eating food from
