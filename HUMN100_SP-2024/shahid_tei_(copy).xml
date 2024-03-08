@@ -3614,6 +3614,247 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222726019",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:27:26.019Z",
+	"dcterms:modified": "2024-03-08T03:27:26.019Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222726019#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222726019#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q45967",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222740282",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:27:40.282Z",
+	"dcterms:modified": "2024-03-08T03:27:40.282Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222740282#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222740282#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "http://www.wikidata.org/entity/Q41410",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222750752",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:27:50.752Z",
+	"dcterms:modified": "2024-03-08T03:27:50.752Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222750752#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307222750752#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q45967",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -3678,9 +3919,9 @@ because this mechanism has been completely neglected to this point.</note></p>
          </div>
          <div>
             <head>Tasting the pomegranate<note type="annotation">Pomegranate is a symbol of sexual fertility, seed, lust</note></head>
-            <p>The myth of Persephone’s capture by Hades illustrates how pervasive hierophagic
+            <p>The myth of <persName key="Persephone" ref="http://www.wikidata.org/entity/Q45967">Persephone</persName>’s capture by <persName key="Hades" ref="http://www.wikidata.org/entity/Q41410" cert="high" type="fictional">Hades</persName> illustrates how pervasive hierophagic
                tasting and its implications were in the culture and literature of the antique world.
-               The Homeric Hymn to Demeter is the earliest of the Persephone stories discussed
+               The Homeric Hymn to Demeter is the earliest of the <persName key="Persephone" ref="http://www.wikidata.org/entity/Q45967">Persephone</persName> stories discussed
                here,11<note type="scholarNote">See Richardson (1974: 74–86) for a full discussion of other literary versions of the myth. The myth
 of Persephone’s capture is briefly mentioned in Hesiod, Theogony 9.14, and also appears in Pamphos, Hymn to Demeter (preserved in Pausanias 1.38.3, 8.37.9, 9.31.9); Orphic Argonautika 1191–6; Orphic hymns 18, 29, 41, 43; Euripides, Helen 1301–68; Isocrates, Panegyrikos 28–9; Callimachos, Hymn 6; Nicander, Theriaca 483–7, Alexipharmaca 129–32; Apollodorus, Library 1.5.1–3; Diodorus Siculus, Bibliotheca Historica 5.3–5; Cicero, Against Verres 2.4; Virgil Georgics 1.39; Lucan Civil Wars 6.698– 700, 739–42; Lactantius Placidus on Statius Thebaid 5.347; Claudian, On the Rape of Proserpina; Nonnos, Dionysiaca 6.1–168; Second Vatican Mythographer 94–100. Of these, Apollodorus mentions the pomegranate, stating that Pluto gave the seed to the Maid and she, “not foreseeing the conse- quences”, ate it.</note> and it is likely that the later Metamorphoses and Fasti were composed at
                least partly in response to the Hymn.12<note type="scholarNote">Hinds (1987: 51–98).</note> In the Homeric Hymn to Demeter, we see
