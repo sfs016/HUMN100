@@ -6692,7 +6692,7 @@
                the case in the three texts examined here that detail the story of the so-called
                “Rape of <persName key="Persephone" ref="http://www.wikidata.org/entity/Q45967" cert="high" type="fictional">Persephone</persName>”: the anonymous Homeric Hymn to <persName key="Demeter" ref="http://www.wikidata.org/entity/Q40730" cert="high" type="fictional">Demeter</persName>, as well as Ovid’s Fasti
                and Metamorphoses. The Homeric Hymn to <persName key="Demeter" ref="http://www.wikidata.org/entity/Q40730">Demeter</persName> is an anonymous text probably composed
-               between 650 and 550 bce. Ovid lived and wrote Metamorphoses and Fasti (among other
+               between <origDate cert="high" datingMethod="650 - 550 bce" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">650 and 550 bce</origDate>. Ovid lived and wrote Metamorphoses and Fasti (among other
                texts) in and around 2<note type="scholarNote">Ovid spent some time in exile and wrote a portion of Fasti outside of Rome proper. See Hill (1992: 1–2).</note> Rome in the first century ce under the reign of Augustus.3<note type="scholarNote">For further discussion of the Homeric Hymn to Demeter, see Richardson (1974: 5–12) and Foley (1994: 28–31, 79–83); for further discussion of Ovid’s historical, political and social context, see Hill
 (1992: 1–4).</note>
                These three texts all narrate the myth of the abduction of <persName key="Persephone" ref="http://www.wikidata.org/entity/Q45967" cert="high" type="fictional">Persephone</persName>, also called
