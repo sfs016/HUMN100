@@ -5636,6 +5636,164 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240307223721680",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:37:21.680Z",
+	"dcterms:modified": "2024-03-08T03:37:21.680Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240307223721680#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?note_annotation_20240307223721680#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p[2]/note[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Persephone did not intentionally eat the seeds, they were slipped to her by Hades in order to keep her underworld → ingestion of ritual food as part of a marriage pact"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223738278",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T03:37:38.278Z",
+	"dcterms:modified": "2024-03-08T03:37:38.278Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sfs016",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Syed Shahid"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223738278#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sfs016/HUMN100/main/HUMN100_SP-2024/shahid_tei_(copy).xml?person_annotation_20240307223738278#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/p[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q45967",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -5726,9 +5884,8 @@ and Felicitas, Joseph and Aseneth and the Book of Revelation. For a discussion o
                in the underworld.16<note type="scholarNote">For a discussion of the potential relationship between the pomegranate meal in the Hymn and actual Athenian marriage, see Foley (1994: 107–9). She notes that “the bride’s acceptance of food was a form of acknowledging the groom’s authority over her” (108) and that the ingestion of some ritual food (quince in Plutarch, Life of Solon 89C or wedding cake in Aristophanes, Peace 869) was part of the marriage rite. As has been noted by other scholars (see note 5 above) sexual experiences follow; see also Suter (2002), Sutton (1981: 153–4).</note> Indeed, the phrase “looking around” (amphi he nōmēsas, line 373)
                may emphasize the furtiveness of <persName key="Hades" ref="http://www.wikidata.org/entity/Q41410" cert="high" type="fictional">Hades</persName>’ behaviour,17<note type="scholarNote">Richardson (1974: 277). Foley (1994: 56) opts to interpret the phrase as referring to a magical rite by which Hades binds Persephone to himself through the movement of the pomegranate seed around his captive; this interpretation is unnecessary in light of my analysis, which proposes that the eating of otherworldly food is binding in and of itself, and does not require additional magical actions. See also Myres (1938) and Bonner (1939).</note> describing how he looks around
                himself, hoping that he is not observed as he tricks his stolen bride into consuming
-               the fruit.</p>
-            <p>That Persephone consumes pomegranate at all is peculiar. The ordinary food of div-
-               ine beings is nectar and ambrosia. Greeks and Romans understood a division between
+               the fruit.<note type="annotation">Persephone did not intentionally eat the seeds, they were slipped to her by Hades in order to keep her underworld → ingestion of ritual food as part of a marriage pact</note></p>
+            <p>That <persName key="Persephone" ref="http://www.wikidata.org/entity/Q45967">Persephone</persName> consumes pomegranate at all is peculiar. The ordinary food of divine beings is nectar and ambrosia. Greeks and Romans understood a division between
                divine and mortal foods – a division that reflects “the wider symbolic economy” that
                distinguishes gods from human beings in culinary terms.18<note type="scholarNote">Clements (2015: 52). The banquet of the Phaeacians (Odyssey 8), the banquet served by Tantalus (Pindar, Olympian Odes 1.26–7) and the meal hosted by Baucis and Philemon (Ovid, Metamorphoses 8.621–96) might seem like exceptions, where gods do consume human food. Tantalus attempts to serve a monstrous human sacrifice to the gods who attend his banquet; aside from human flesh being out of the realm of normal mortal food, only Demeter eats at the banquet, and she does so only because she is distracted by her grief at Persephone’s absence. Baucis and Philemon do set out a table for their divine guests, and items of food, including eggs and cheese, are described, but the only reference to ingestion is to the wine jug, which mysteriously refills itself each time Baucis refills the cups; indeed, the gods actually prevent the host couple from serving them meat by revealing their divine identities. As for the banquet of the Phaeacians, the gods are lauded in song but do not attend the meal.</note> Ambrosia and nectar are the
                food of the gods in Greek traditions.19<note type="scholarNote">See, in this volume, Gowers (Chapter 5) on ambrosia as a metaphor for sweet kisses, and Hitch (Chapter 1) on wine so tasty that it is compared to this divine food. Hitch also addresses the dining event between Calypso and Odysseus in Odyssey 5.194–9 (see also below, this chapter). There, Hitch observes, the divine and mortal share space, allowing human proximity to the divine, but not food, marking their distinct natures.</note> This divine food is reserved for the gods and
